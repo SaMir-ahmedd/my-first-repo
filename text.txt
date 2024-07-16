@@ -1,1 +1,5 @@
-hello there
+<<<<<<< HEAD
+Your changes
+=======
+Changes from the remote repository
+>>>>>>> e742d21
